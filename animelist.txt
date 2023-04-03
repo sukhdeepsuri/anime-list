@@ -1,8 +1,16 @@
 =======================
 # Anime That Are Worth Watching :
 =======================
-- Dragon Ball Z
-- Bleach
-- Naruto
-- Demon Slayer
-- Attack On Titan
+1. Dragon Ball Z
+2. One Piece
+3. Bleach
+4. Naruto
+5. Naruto Shippuden
+6. Demon Slayer
+7. Blue Lock
+8. Attack On Titan
+9. Tokyo Ghoul
+10. Death Note
+11. Jujutsu Kaisen
+12. Chainsaw Man
+13. Boruto
